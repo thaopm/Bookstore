@@ -1,0 +1,32 @@
+.navbar {
+  margin-bottom: 20px;
+}
+
+hr{
+	border:none;
+	height:5px;
+	color:#333;
+	background-color:#333;
+}
+
+.navbar-form{
+	display:inline-block;
+}
+
+.section-headline{
+	margin: auto;
+	text-align:center;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 24px;
+	color: #fff;
+}
+
+.section-headline span{
+	background-color: #231F20;
+	padding: 5px 22px;
+}
+
+.table-responsive{
+	width:90%;
+	margin:0 auto;
+}
